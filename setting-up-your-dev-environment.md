@@ -1,4 +1,4 @@
-# Welcome to the toolFor-3250 guide!
+# Welcome to the toolsFor-3250 guide!
 
 Steps for Setup:
 
