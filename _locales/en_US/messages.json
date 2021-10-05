@@ -1,0 +1,23 @@
+{
+    "extensionDescription": {
+        "message": "Quickly switch between your themes or back to the default."
+    },
+    "extensionName": {
+        "message": "Thematic"
+    },
+    "extensionShortName": {
+        "message": "Thematic"
+    },
+    "minuteslabel": {
+        "message": "minutes, 1 - 999."
+    },
+    "autolabel": {
+        "message": "Switch every"
+    },
+    "randomlabel": {
+        "message": "Switch to a random theme instead of the least recent."
+    },
+    "keyboard_shortcuts": {
+        "message": "See https://support.mozilla.org/en-US/kb/manage-extension-shortcuts-firefox for instructions on how to set the keyboard shortcuts. Short story: click on the gear above and choose Manage Extension Shortcuts."
+    }
+}

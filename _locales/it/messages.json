@@ -1,0 +1,23 @@
+{
+    "extensionDescription": {
+        "message": "Cambio rapido tramite menu o per mezzo di scorciatorie da tastiera, fra i Temi di Theme con opzione di Anteprima, e facolt\u00e0 di ritorno al tema Predefinito. Possibilit\u00e0 di cambio automatico a tempo del Tema o ad ogni riavvio di FireFox."
+    },
+    "extensionName": {
+        "message": "Thematic"
+    },
+    "extensionShortName": {
+        "message": "Thematic"
+    },
+    "minuteslabel": {
+        "message": "Minuti/o, 1 - 999"
+    },
+    "autolabel": {
+        "message": "Cambia Tema ogni"
+    },
+    "randomlabel": {
+        "message": "Cambia Tema a caso anzich\u00e9 dal meno recente."
+    },
+    "keyboard_shortcuts": {
+        "message": "See https://support.mozilla.org/en-US/kb/manage-extension-shortcuts-firefox for instructions on how to set the keyboard shortcuts. Short story: click on the gear above and choose Manage Extension Shortcuts."
+    }
+}

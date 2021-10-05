@@ -1,0 +1,23 @@
+{
+    "extensionDescription": {
+        "message": "Schneller Wechsel zwischen ihren Themes oder zur\u00fcck zu den Standardeinstellungen \u00fcber das Men\u00fc oder der Tastatur. Sie k\u00f6nnen auch automatisch durch alle Themen in einem Intervall ihrer Wahl wechseln. Arbeitet mit Firefox."
+    },
+    "extensionName": {
+        "message": "Thematic"
+    },
+    "extensionShortName": {
+        "message": "Thematic"
+    },
+    "minuteslabel": {
+        "message": "Minuten, 1 - 999"
+    },
+    "autolabel": {
+        "message": "Wechsel alle"
+    },
+    "randomlabel": {
+        "message": "Wechsel zu einer zuf\u00e4lligen Theme anstelle des Letzten verwendeten."
+    },
+    "keyboard_shortcuts": {
+        "message": "See https://support.mozilla.org/en-US/kb/manage-extension-shortcuts-firefox for instructions on how to set the keyboard shortcuts. Short story: click on the gear above and choose Manage Extension Shortcuts."
+    }
+}
